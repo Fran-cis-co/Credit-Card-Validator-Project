@@ -1,0 +1,1 @@
+Created a credit card validator program for the purpose of learning how to program with multithreading. One version is with multithreading and one is without. The purpose of this is to also test how efficient multithreading is compared to programming everything under just one thread.
